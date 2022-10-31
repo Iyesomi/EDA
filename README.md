@@ -1,5 +1,5 @@
 # EDA
-Repoerting On Sales Data
+Reporting On Sales Data
 
 #### Project Status: Completed 
 
